@@ -1,0 +1,9 @@
+C:\H4\Alarmcentral\Alarmcentral.Library\bin\Debug\netcoreapp3.1\Alarmcentral.Library.deps.json
+C:\H4\Alarmcentral\Alarmcentral.Library\bin\Debug\netcoreapp3.1\Alarmcentral.Library.dll
+C:\H4\Alarmcentral\Alarmcentral.Library\bin\Debug\netcoreapp3.1\Alarmcentral.Library.pdb
+C:\H4\Alarmcentral\Alarmcentral.Library\obj\Debug\netcoreapp3.1\Alarmcentral.Library.csprojAssemblyReference.cache
+C:\H4\Alarmcentral\Alarmcentral.Library\obj\Debug\netcoreapp3.1\Alarmcentral.Library.AssemblyInfoInputs.cache
+C:\H4\Alarmcentral\Alarmcentral.Library\obj\Debug\netcoreapp3.1\Alarmcentral.Library.AssemblyInfo.cs
+C:\H4\Alarmcentral\Alarmcentral.Library\obj\Debug\netcoreapp3.1\Alarmcentral.Library.csproj.CoreCompileInputs.cache
+C:\H4\Alarmcentral\Alarmcentral.Library\obj\Debug\netcoreapp3.1\Alarmcentral.Library.dll
+C:\H4\Alarmcentral\Alarmcentral.Library\obj\Debug\netcoreapp3.1\Alarmcentral.Library.pdb

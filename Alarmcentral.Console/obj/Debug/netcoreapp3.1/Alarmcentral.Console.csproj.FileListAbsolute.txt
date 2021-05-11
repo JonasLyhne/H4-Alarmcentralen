@@ -1,0 +1,16 @@
+C:\H4\Alarmcentral\Alarmcentral.Console\bin\Debug\netcoreapp3.1\Alarmcentral.Console.exe
+C:\H4\Alarmcentral\Alarmcentral.Console\bin\Debug\netcoreapp3.1\Alarmcentral.Console.deps.json
+C:\H4\Alarmcentral\Alarmcentral.Console\bin\Debug\netcoreapp3.1\Alarmcentral.Console.runtimeconfig.json
+C:\H4\Alarmcentral\Alarmcentral.Console\bin\Debug\netcoreapp3.1\Alarmcentral.Console.runtimeconfig.dev.json
+C:\H4\Alarmcentral\Alarmcentral.Console\bin\Debug\netcoreapp3.1\Alarmcentral.Console.dll
+C:\H4\Alarmcentral\Alarmcentral.Console\bin\Debug\netcoreapp3.1\Alarmcentral.Console.pdb
+C:\H4\Alarmcentral\Alarmcentral.Console\obj\Debug\netcoreapp3.1\Alarmcentral.Console.csprojAssemblyReference.cache
+C:\H4\Alarmcentral\Alarmcentral.Console\obj\Debug\netcoreapp3.1\Alarmcentral.Console.AssemblyInfoInputs.cache
+C:\H4\Alarmcentral\Alarmcentral.Console\obj\Debug\netcoreapp3.1\Alarmcentral.Console.AssemblyInfo.cs
+C:\H4\Alarmcentral\Alarmcentral.Console\obj\Debug\netcoreapp3.1\Alarmcentral.Console.csproj.CoreCompileInputs.cache
+C:\H4\Alarmcentral\Alarmcentral.Console\obj\Debug\netcoreapp3.1\Alarmcentral.Console.dll
+C:\H4\Alarmcentral\Alarmcentral.Console\obj\Debug\netcoreapp3.1\Alarmcentral.Console.pdb
+C:\H4\Alarmcentral\Alarmcentral.Console\obj\Debug\netcoreapp3.1\Alarmcentral.Console.genruntimeconfig.cache
+C:\H4\Alarmcentral\Alarmcentral.Console\bin\Debug\netcoreapp3.1\Alarmcentral.Library.dll
+C:\H4\Alarmcentral\Alarmcentral.Console\bin\Debug\netcoreapp3.1\Alarmcentral.Library.pdb
+C:\H4\Alarmcentral\Alarmcentral.Console\obj\Debug\netcoreapp3.1\Alarmcentral.Console.csproj.CopyComplete

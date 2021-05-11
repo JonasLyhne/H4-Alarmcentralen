@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Alarmcentral.Console/1.0.0": {
+        "dependencies": {
+          "Alarmcentral.Library": "1.0.0"
+        },
+        "runtime": {
+          "Alarmcentral.Console.dll": {}
+        }
+      },
+      "Alarmcentral.Library/1.0.0": {
+        "runtime": {
+          "Alarmcentral.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alarmcentral.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alarmcentral.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
